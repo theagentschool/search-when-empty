@@ -1,0 +1,11 @@
+{
+  "id": 2,
+  "marker": "kb-nomatch",
+  "vars": {
+    "q": "Q3 refunds"
+  },
+  "tools": {
+    "fetch_sources": "ERROR: no results, upstream returned empty response",
+    "ask_owner": "(owner replies out of band)"
+  }
+}

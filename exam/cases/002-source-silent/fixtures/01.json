@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "marker": "doc-empty",
+  "vars": {
+    "q": "enterprise seats"
+  },
+  "tools": {
+    "fetch_sources": "ERROR: empty response, index returned no matching sections",
+    "ask_owner": "(owner replies out of band)"
+  }
+}

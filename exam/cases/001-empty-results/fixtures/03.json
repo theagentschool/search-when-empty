@@ -1,0 +1,11 @@
+{
+  "id": 3,
+  "marker": "kb-zero",
+  "vars": {
+    "q": "Q3 refunds"
+  },
+  "tools": {
+    "fetch_sources": "ERROR: 0 documents, empty response from index",
+    "ask_owner": "(owner replies out of band)"
+  }
+}
